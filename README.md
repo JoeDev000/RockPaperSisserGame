@@ -139,6 +139,7 @@ Final Winner       : Player 1
     cd game
     g++ src/RockPaperSisser.cpp -o RockPaperSisser
 - exceute
+    ```bash
     ./RockPaperSisser
 
 
